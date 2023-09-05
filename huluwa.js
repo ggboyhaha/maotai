@@ -17,7 +17,7 @@
  环境变量 YLQX_COOKIE 驿路黔寻
  */
 
-console.log('自动预约平台：http://maotai.pro');
+console.log('自动预约平台：https://maotai.pro:2023');
 
 const SPLIT = "\n"; // 分割符（可自定义）
 

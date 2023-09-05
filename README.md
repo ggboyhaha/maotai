@@ -21,7 +21,7 @@ Thanks to everyone who supported me before, this repository is currently suspend
 
 本项目由nodejs开发，系统会每日进行预约
 
-自动预约平台（内测中）：[http://maotai.pro](http://maotai.pro)（支持葫芦娃，i茅台，强烈推荐）
+自动预约平台（内测中）：[https://maotai.pro:2023](https://maotai.pro:2023)（支持葫芦娃，i茅台，强烈推荐）
 
 作者QQ：**929375038**
 
