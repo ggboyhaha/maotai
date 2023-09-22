@@ -41,23 +41,3 @@ Thanks to everyone who supported me before, this repository is currently suspend
 | 乐旅商城 | LLSC_COOKIE | 这里填写Token |
 | 驿路黔寻 | YLQX_APPID | 这里填写Token |
 
-## 关注&交流
-
-欢迎各位老哥进群**技术交流**（只交流技术，不谈茅台）
-
-[![点击加入TG群](https://img.shields.io/badge/Telegram-Group-blue)](https://t.me/maotai_pro) [![点击加入QQ群](https://img.shields.io/badge/TencentQQ-Group-blue)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ksOXP4yepTlsqTzYADYPplDTHmEe6d05&authKey=xuh%2F%2BMHo%2BfO5xi1bCOjAeNoTLE4zBQWxXoEX84%2FRaShGpVxxZDV8nK0o3BM2Gum4&noverify=0&group_code=675608101)
-
-私信不解决项目问题，如有问题请提交 issues！
-
-## 贡献代码
-
-若您有好的想法，发现一些 **BUG** 并修复了，欢迎提交 **Pull Request** 参与开源贡献
-
-发起 pull request 请求，提交到 master 分支，等待作者合并
-
-## 友情链接
-
-Campus-imaotai：[https://github.com/oddfar/campus-imaotai](https://github.com/oddfar/campus-imaotai)
-
-## 声明
-本项目仅做个人学习用途，我不会对因为滥用该项目导致的任何问题负责。
