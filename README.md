@@ -17,7 +17,6 @@ Thanks to everyone who supported me before, this repository is currently suspend
 
 自动预约平台（内测中）：[https://maotai.pro:2023](https://maotai.pro:2023)（支持葫芦娃，i茅台，强烈推荐）
 
-作者QQ：**929375038**
 
 ## 拉库指令
 
